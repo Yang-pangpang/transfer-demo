@@ -1,3 +1,10 @@
+/*
+ * @Author: Yonga
+ * @Date: 2023-08-17 20:53:45
+ * @LastEditors: Please set LastEditors
+ * @LastEditTime: 2023-08-17 22:09:16
+ * @FilePath: /transfer-demo/src/index.tsx
+ */
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
